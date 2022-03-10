@@ -5,8 +5,7 @@
  /**
   * main - Entry point
   *
-  * Description : This is a C program that prints a function with Put
-  *
+  * Description : This is a C program that prints a function
   * return: value 0
   */
 int main(void)
