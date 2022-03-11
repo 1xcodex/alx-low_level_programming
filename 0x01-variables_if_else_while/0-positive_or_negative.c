@@ -1,6 +1,6 @@
 #include <stidlib.h>
 #include <time.h>
-#include <stdio.h>
+#include<stdio.h>
 
 /**
 * more - Entry point
@@ -28,6 +28,4 @@ int main(void)
 	 	printf("%d is negative\n", n);
 	 }
 	return (0);
-
-
 }
