@@ -13,9 +13,3 @@ int _isupper(int c)
 	else
 		return (0);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-
